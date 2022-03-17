@@ -6,4 +6,27 @@ The previous stack was Python, the repo for those assignments can be found here:
 
 I am currently working through this course.
 
-# Assignments for the Python Course 
+# Assignments for the MySQL Course 
+Users, Objectives:
+    Practice designing ERDs
+
+Dojos and Ninjas, Objectives:
+    Practice designing ERDs with one-to-many relationships
+
+Books, Objectives:
+    Practice designing ERDs with many-to-many relationships
+
+Friendships, Objectives:
+    Practice designing ERDs with self joins
+
+Event Planner, Objectives:
+    Practice designing ERDs
+
+Blogs, Objectives:
+    Practice designing ERDs
+
+User Dashboard, Objectives:
+    Practice designing ERDs
+    
+Normalization, Objectives:
+    Practice designing ERDs with proper database normalization
