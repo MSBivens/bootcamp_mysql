@@ -30,3 +30,13 @@ User Dashboard, Objectives:
     
 Normalization, Objectives:
     Practice designing ERDs with proper database normalization
+
+Setup, Objectives:
+    Practice queriest needed to make a CRUD application
+
+Users2, Objectives:
+    Practice MySQL workbench to run sql commands to manipulate data
+
+Dojos and Ninjas2, Objectives:
+    Practice MySQL workbench to run sql commands to manipulate data
+    Practice one-to-many relationships
