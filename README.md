@@ -4,7 +4,7 @@ This course was the second of the Python stack.
 
 The previous stack was Python, the repo for those assignments can be found here: https://github.com/MSBivens/bootcamp_python
 
-I am currently working through this course.
+I have completed the MySQL course and moved on to the Flask course, the repo for those assignments can be found here: https://github.com/MSBivens/bootcamp_flask 
 
 # Assignments for the MySQL Course 
 Users, Objectives:
