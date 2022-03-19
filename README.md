@@ -38,5 +38,19 @@ Users2, Objectives:
     Practice MySQL workbench to run sql commands to manipulate data
 
 Dojos and Ninjas2, Objectives:
-    Practice MySQL workbench to run sql commands to manipulate data
+    Practice MySQL workbench to run sql commands to manipulate database
     Practice one-to-many relationships
+
+Books2, Objectives:
+    Practice MySQL workbench to run sql commands to manipulate database
+    Practice many-to-many relationships
+
+Friendships2, Objectives:
+    Practice creating databases
+    Practice SQL queriers and self joins
+
+MySQL Countries, Objectives:
+    Practice SQL queriers
+
+Sakila, Objectives:
+    Practice SQL queriers
